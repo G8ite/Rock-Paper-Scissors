@@ -1,7 +1,7 @@
 <script setup>
 defineProps({
   playerNumber: {
-    type: Number,
+    type: String,
     required: true,
   },
 });
