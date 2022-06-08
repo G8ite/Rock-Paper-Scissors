@@ -1,9 +1,7 @@
 <script setup>
-import TheWelcome from "@/components/TheWelcome.vue";
+import PlayerInputVue from '../components/PlayerInput.vue';
 </script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+    <PlayerInputVue playerNumber=1 />
+    <PlayerInputVue playerNumber=2 />
 </template>
