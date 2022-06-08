@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-This template should help get you started developing with Vue 3 in Vite.
+I'm trying not without difficulties to learn Vue js
 
 ## Recommended IDE Setup
 
